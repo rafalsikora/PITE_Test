@@ -1,0 +1,4 @@
+{'salary': 2000, 'surname': 'Sikora', 'name': 'Rafal', 'age': 24, 'heigh': 180, 'adress': 'Fieldorfa-Nila 200'}
+{'salary': 4000, 'surname': 'Lis', 'name': 'Lukasz', 'age': 33, 'heigh': 201, 'adress': 'Kukulskiego 23'}
+{'salary': 6000, 'surname': 'Kot', 'name': 'Mariusz', 'age': 56, 'heigh': 143, 'adress': 'Warszawska 4'}
+{'salary': 0, 'surname': 'Paderewski', 'name': 'Antoni', 'age': 12, 'heigh': 120, 'adress': 'Popielata 2'}

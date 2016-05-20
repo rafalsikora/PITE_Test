@@ -1,0 +1,4 @@
+Sikora, Rafal, Matematyka 4 5 3 2 2 5 6 6, Fizyka 2 2 5, WF 5 3 5
+Lis, Lukasz, J.polski 4 5 6 6, Fizyka 2 2 2 5, WF 5 5, J.angielski 5 3 5
+Kot, Mariusz, Sztuka 6, Matematyka 2 2 1, WF 4 4 4
+Paderewski, Antoni, Matematyka 4 2 5 6 6, Fizyka 6, WF 6

@@ -1,0 +1,25 @@
+
+--------------
+Rafal Sikora
+Matematyka 4.125
+Fizyka 3.0
+WF 4.33333333333
+
+--------------
+Lukasz Lis
+J.polski 5.25
+Fizyka 2.75
+WF 5.0
+J.angielski 4.33333333333
+
+--------------
+Mariusz Kot
+Sztuka 6.0
+Matematyka 1.66666666667
+WF 4.0
+
+--------------
+Antoni Paderewski
+Matematyka 4.6
+Fizyka 6.0
+WF 6.0
